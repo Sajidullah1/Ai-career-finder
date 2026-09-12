@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Finder",
+  "description": "AI-powered personalized career platform: analyze CVs, discover matching jobs, identify skill gaps, and build career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
